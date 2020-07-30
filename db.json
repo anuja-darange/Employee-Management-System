@@ -1,0 +1,94 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "fullName": "Anuja",
+      "contactPreference": "email",
+      "email": "anuja.darange@gmail.com",
+      "phone": "1234567892",
+      "skills": [
+        {
+          "skillName": "Angular",
+          "experienceInYears": 2,
+          "proficiency": "advanced"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "fullName": "Anu",
+      "contactPreference": "phone",
+      "email": "anu.darange@gmail.com",
+      "phone": "9876543219",
+      "skills": [
+        {
+          "skillName": "Bootstrap",
+          "experienceInYears": "2",
+          "proficiency": "beginner"
+        },
+        {
+          "skillName": "jQuery",
+          "experienceInYears": 2,
+          "proficiency": "advanced"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "fullName": "Reshma",
+      "contactPreference": "email",
+      "email": "reshma@gmail.com",
+      "phone": "2233441567",
+      "skills": [
+        {
+          "skillName": "JavaScript",
+          "experienceInYears": "2",
+          "proficiency": "advanced"
+        },
+        {
+          "skillName": "Angular",
+          "experienceInYears": "2",
+          "proficiency": "intermediate"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "fullName": "Vedanti",
+      "contactPreference": "email",
+      "email": "vedanti@gmail.com",
+      "phone": "9960789991",
+      "skills": [
+        {
+          "skillName": "JavaScript",
+          "experienceInYears": "2",
+          "proficiency": "intermediate"
+        },
+        {
+          "skillName": "Angular",
+          "experienceInYears": "2",
+          "proficiency": "intermediate"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "fullName": "Sachita",
+      "contactPreference": "email",
+      "email": "sanchita@gmail.com",
+      "phone": "3344556262",
+      "skills": [
+        {
+          "skillName": "JavaScript",
+          "experienceInYears": "2",
+          "proficiency": "advanced"
+        },
+        {
+          "skillName": "Angular",
+          "experienceInYears": "2",
+          "proficiency": "intermediate"
+        }
+      ]
+    }
+  ]
+}
