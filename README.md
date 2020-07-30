@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 Employee Management System 
 
@@ -40,3 +41,6 @@ Project creation and execution commands :
 >Go to the project folder and execute >ng serves --open
 
 IMPORTANT - REST API server should be turned on.
+=======
+# Employee-Management-System
+>>>>>>> 3205f465cc847cf8ff2da1acc4af8aa10ff7fbe1
